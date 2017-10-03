@@ -51,7 +51,7 @@ public class numberGame : MonoBehaviour {
 			max = guess; // initially set the maximum to 500
 			NextGuess ();   
 		} else if (Input.GetKeyDown(KeyCode.Return)) { // define command for return key input from the reader
-			print("My job is done here. Play again?"); // print string to console responding to input 
+			print("Hey hey with the chop! Play again?"); // print string to console responding to input 
 			Start (); // start another game with the Start function
 		} // else if is used to ensure you cannot press all three keys at once 
 			
