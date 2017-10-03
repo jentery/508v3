@@ -1,4 +1,4 @@
-## Bugs 
+# Bugs 
 
 If you find a bug and want to share, then: 
 
