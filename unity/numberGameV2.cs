@@ -19,8 +19,9 @@ To run this program in Unity, you'll need a project (call it "numberGame"), a co
 When naming files, use Camel Case (no spaces; capital letters to mark new words; lower case for the first word.)
 */ 
 
-using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
 
 public class numberGame : MonoBehaviour {
 
