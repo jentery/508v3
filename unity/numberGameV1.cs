@@ -14,7 +14,7 @@ Anything under void Update () runs once per frame (dictated by the frame rate).
 If you want to search for more info about a command from within MonoDevelop, press command + ' next to that command.
 When you check a script in the Unity console, consider selecting the "Collapse" option (left of "Clear on Play"). This option counts occurrences instead of printing them each time. 
 Press command + B or F8 to build your script in MonoDevelop. 
-The program below has three functions: Start, Update, and NextGuess. 
+The program below has two functions: Start and Update.  
 To run this program in Unity, you'll need a project (call it "numberGame"), a component called "numberGame", and a scene (call it "main"). 
 When naming files, use Camel Case (no spaces; capital letters to mark new words; lower case for the first word.)
 */ 
