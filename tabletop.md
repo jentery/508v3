@@ -11,35 +11,35 @@ Aims: 1) Prototype a tabletop game informed by a literary or cultural movement; 
 * Read *Rise of the Videogame Zinesters* 
 * Question: How might Anthropy's arguments shape tabletop game design today? 
 * Construct and share a list of games to study during the term 
-* Workshop on speculative/suboptimal design and game design techniques 
+* Workshop on speculative/suboptimal design and game design techniques (see Kari Kraus on speculative design, Steve Jones on the eversion, and Tracey Fullerton and game design) 
 
 ## Week 2: Select an -Ism and Primary Text 
 
 * Survey -isms between 1870 and 1970 (e.g., symbolism, absurdism, feminism, futurism) and select one to study this term
 * Pick a primary text (fiction or poetry) that represents the -ism (you will use this text as a foundation for game prototyping this term)
 * Conduct a close reading of your text and share it in seminar  
-* Workshop on documenting and interpreting contexts of use 
+* Workshop on documenting and interpreting contexts of use (see Daniela Rosner on design as inquiry and Mary Ann Caws on manifestos and design) 
 
 ## Week 3: Play Some Tabletop Games 
 
 * Play at least two tabletop games with someone else in seminar 
 * Document, reflect on, and interpret the experience of each game and share your analysis in seminar
 * How are tabletop games and old media entangled with literature, culture, and new media? 
-* Workshop on wireframing, metadata, and experience design  
+* Workshop on wireframing, metadata, and experience design (see Brenda Romero on game design, Bethany Nowviskie on ludic algorithms, and Mary Flanagan on critical play) 
 
 ## Week 4: Make Your Text a Form 
 
 * Add blanks to your primary text; delete content where necessary 
 * Share your form in seminar
 * How does it invite data? How does it create a subject? 
-* Workshop on electronic literature and Twine (HTML and CSS)
+* Workshop on electronic literature and Twine (HTML and CSS) (see Dene Grigar on e-lit and Porpentine's Twine work) 
 
 ## Week 5: Make Your Text an Interactive Fiction
 
 * Use Twine to express your text in HTML, with links, CSS, and whatnot
 * Share your Twine fiction in seminar 
 * How does it invite input? How do people navigate and remember it? 
-* Workshop on genre analysis,  comparative media study, and paper + cardboard prototyping 
+* Workshop on genre analysis, comparative media study, and paper + cardboard prototyping (see Anastasia Salter on interactive stories and Elizabeth W. Bruss on literary history of games ) 
 
 ## Week 6: Make Your Text a Tabletop Genre 
 
@@ -47,34 +47,34 @@ Aims: 1) Prototype a tabletop game informed by a literary or cultural movement; 
 * Prototype a tabletop game with pen and paper (prototype fast and don't worry about particulars)
 * Share and playtest your prototype in seminar 
 * How does it invite interaction? How does it combine aesthetics with politics? 
-* Workshop on labour studies of procedure, programming, and play  
+* Workshop on labour studies of procedure, programming, and play (see Lisa Nakamura on digtial labour, Ian Bogost on procedural rhetoric, and Patrick Jagoda on affect + mechanics) 
 
 ## Week 7: Make Your Text a Set of Rules 
 
 * Articulate your text as a set of rules; write them down and test them with your prototype (from last week)
 * Share and playtest your rules in seminar 
 * How do they invite storytelling? How do they frame labour and procedure? 
-* Workshop on board design (manual and software) and CNC techniques (papercutting and  lasercutting)
+* Workshop on board design (manual and software) and CNC techniques (papercutting and lasercutting) (see Matthew Kirschenbaum on contests of meaning and Caitlin Fisher on design + augmented reality) 
 
 ## Week 8: Make Your Text a Board 
 * Design a board for your tabletop game; test it with your prototype (from the last two weeks)
 * Share and playtest your board in seminar 
 * How does it invite strategy? How does it express space and time? 
-* Workshop on 3D modelling, digitization, and printing
+* Workshop on 3D modelling, digitization, and printing (see Tiffany Chan and Mara Mills on prototyping the past and Nicole Clouston on fabrication in the arts) 
 
 ## Week 9: Make Your Text a Set of Tokens/Avatars  
 
 * Design the tokens or avatars for your tabletop game; test them with your prototype (from the last three weeks)
 * Share and playtest your pieces in seminar
 * How do they invite embodied experience? How do they correspond with iconographies and cultural assumptions? 
-* Workshop on serendipity and agency in design 
+* Workshop on agency in design (see Elizabeth LaPensée on self-determination) 
 
 ## Week 10: Make Your Text a Set of Cards 
 
 * Design the cards and dice (if applicable) for your tabletop game; test them with your prototype (from the last four weeks)
 * Share and playtest your cards (and dice) in seminar 
 * How do they invite chance or serendipity? How do they affect agency? 
-* Workshop on not overworking (or taking care of yourself)
+* Workshop on not working (or taking care of yourself)(see Sara Ahmed on self-care) 
 
 ## Week 11: Take a Break 
 
@@ -86,7 +86,7 @@ Aims: 1) Prototype a tabletop game informed by a literary or cultural movement; 
 * Start polishing your game in tactile form
 * Share and playtest your manual and prototype in seminar 
 * How does they present themselves as products? As exchanges or relations? As pedagogical artifacts? 
-* Workshop on presenting and circulating games (online and off)
+* Workshop on presenting and circulating games (online and off) (return to Anthropy) 
 
 ## Week 13 or 14: Package and Present Your Text as a Tabletop Game 
 
