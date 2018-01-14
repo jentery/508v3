@@ -85,12 +85,12 @@ Aims: 1) Prototype a tabletop game informed by a literary or cultural movement; 
 * Draft a manual for your game; make sure it's available in print and digital form 
 * Start polishing your game in tactile form
 * Share and playtest your manual and prototype in seminar 
-* How does they present themselves as products? As exchanges or relations? As pedagogical artifacts? 
+* How do they present themselves as products? As exchanges or relations? As pedagogical artifacts? 
 * Workshop on presenting and circulating games (online and off) (return to Anthropy) 
 
 ## Week 13 or 14: Package and Present Your Text as a Tabletop Game 
 
-* Present your game to a group on or off campus (e.g., in the library or at a local board game cafe)
+* Organize an event (as a group) and present your games to a group on or off campus (e.g., in the library or at a local board game cafe)
 * Invite people to play it and document (with written permission) their experiences 
 
 ## Week 15: Submit Your Game 
