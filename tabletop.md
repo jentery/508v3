@@ -97,3 +97,5 @@ Aims: 1) Prototype a tabletop game informed by a literary or cultural movement; 
 
 * Submit your game in physical and digital form (as a thing and repository of files)
 * With it, provide a statement detailing your tabletop game as scholarly work 
+
+*The University of Victoria's Department of English acknowledges and respects the Songhees, Esquimalt, and WSÁNEĆ peoples on whose traditional territories the University stands and whose historical relationships with the land continue to this day.*
