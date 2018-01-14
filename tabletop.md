@@ -32,7 +32,7 @@ Aims: 1) Prototype a tabletop game informed by a literary or cultural movement; 
 * Add blanks to your primary text; delete content where necessary 
 * Share your form in seminar
 * How does it invite data? How does it create a subject? 
-* Workshop on electronic literature and Twine (HTML and CSS) (see Dene Grigar on e-lit and Porpentine's Twine work) 
+* Workshop on electronic literature and Twine (HTML and CSS) (see Lisa Gitelman on printing blanks, Dene Grigar on e-lit, and Porpentine's Twine work) 
 
 ## Week 5: Make Your Text an Interactive Fiction
 
