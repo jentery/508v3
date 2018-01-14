@@ -2,7 +2,7 @@
 
 Jentery Sayers | English | University of Victoria | Digital Studies Seminar (Fall 2018)
 
-**DRAFT** (without assigned readings 
+**DRAFT** (without assigned readings or course policies) 
 
 Aims: 1) Prototype a tabletop game informed by a literary or cultural movement; 2) determine how tabletop design is entwined with literature and new media today; and 3) learn digital studies methods through low-tech techniques that foreground speculation, culture, and aesthetics 
 
