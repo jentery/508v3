@@ -11,7 +11,7 @@ Aims: 1) Prototype a tabletop game informed by a literary or cultural movement; 
 * Read *Rise of the Videogame Zinesters* 
 * Question: How might Anthropy's arguments shape tabletop game design today? 
 * Construct and share a list of games to study during the term 
-* Workshop on speculative/suboptimal design and game design techniques (see Kari Kraus on speculative design, Steve Jones on the eversion, and Tracey Fullerton and game design) 
+* Workshop on speculative/suboptimal design and game design techniques (see Kari Kraus on speculative design, Steve Jones on the eversion, and Tracey Fullerton on game design) 
 
 ## Week 2: Select an -Ism and Primary Text 
 
