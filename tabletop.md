@@ -1,101 +1,36 @@
 # What's in a Game? (Tabletop Edition) 
 
+**DRAFT** (without course policies and whatnot) 
+
 Jentery Sayers | English | University of Victoria | Digital Studies Seminar (Fall 2018)
 
-**DRAFT** (without assigned readings or course policies) 
+*Get off the internet!* -- Le Tigre (2001)
 
-Aims: 1) Prototype a tabletop game informed by a literary or cultural movement; 2) determine how tabletop design is entwined with literature and new media today; and 3) learn digital studies methods through low-tech techniques that foreground speculation, culture, and aesthetics 
+## ACKNOWLEDGMENTS 
 
-## Week 1: Read Anthropy 
+The University of Victoria's Department of English acknowledges with respect the Lkwungen-speaking peoples on whose traditional territory the university stands and the Songhees, Esquimalt and WSÁNEĆ peoples whose historical relationships with the land continue to this day.
 
-* Read *Rise of the Videogame Zinesters* 
-* Question: How might Anthropy's arguments shape tabletop game design today? 
-* Construct and share a list of games to study during the term 
-* Workshop on speculative/suboptimal design and game design techniques (see Kari Kraus on speculative design, Steve Jones on the eversion, and Tracey Fullerton on game design) 
+## AIMS 
 
-## Week 2: Select an -Ism and Primary Text 
+* Examine the entanglements of game studies with literary studies through A-D-M and M-D-A frameworks that foreground the material dynamics ("D") between aesthetics ("A") and mechanics ("M"); 
+* Understand digital studies as a centuries-old design practice and approach it through "low-tech" techniques anchored in gaming; 
+* Learn how game prototyping applies (and is arguably foundational) to digital humanities project design and development, with particular attention to paradigms for labour, speculation, access, exchange, and negotiation;
+* Prototype an offline tabletop game informed by the politics and aesthetics of an "-ism" (dated between 1870 and 1970) and document the prototyping process; 
+* Share and test your tabletop game with people in and beyond this seminar; and 
+* Communicate (via a presentation and in writing) the relevance of your game prototype to literary and digital studies. 
 
-* Survey -isms between 1870 and 1970 (e.g., symbolism, absurdism, feminism, futurism) and select one to study this term
-* Pick a primary text (fiction or poetry) that represents the -ism (you will use this text as a foundation for game prototyping this term)
-* Conduct a close reading of your text and share it in seminar  
-* Workshop on documenting and interpreting contexts of use (see Daniela Rosner on design as inquiry and Mary Ann Caws on manifestos and design) 
+## ASSIGNMENTS 
 
-## Week 3: Play Some Tabletop Games 
+* Design Document (20% x 2): documentation of the iterative design and development of your game, including game components and drafts as well as responses to related readings, games, and playtests  
+* Game Prototype (25%): an offline tabletop game complete with a manual, concept doc (with feature list), and "bits" (such as a board, tiles, and cards) enacting the game's theme, mechanics, and system 
+* Final Presentation and Paper (20%): a five- to seven-minute talk (delivered at the end of term)revised into a final paper (submitted one or two weeks after the talk)
+* Participation (15%): such as preparing for seminar, contributing to discussions, and participating in workshops and playtests 
 
-* Play at least two tabletop games with someone else in seminar 
-* Document, reflect on, and interpret the experience of each game and share your analysis in seminar
-* How are tabletop games and old media entangled with literature, culture, and new media? 
-* Workshop on wireframing, metadata, and experience design (see Brenda Romero on game design, Bethany Nowviskie on ludic algorithms, and Mary Flanagan on critical play) 
+Please note that I encourage you to avoid prototyping the following types of games (during seminar I'll explain why): trivia, quiz/word, old school revival, tactical war, and mods  
 
-## Week 4: Make Your Text a Form 
+## MATERIALS 
 
-* Add blanks to your primary text; delete content where necessary 
-* Share your form in seminar
-* How does it invite data? How does it create a subject? 
-* Workshop on electronic literature and Twine (HTML and CSS) (see Lisa Gitelman on printing blanks, Dene Grigar on e-lit, and Porpentine's Twine work) 
-
-## Week 5: Make Your Text an Interactive Fiction
-
-* Use Twine to express your text in HTML, with links, CSS, and whatnot
-* Share your Twine fiction in seminar 
-* How does it invite input? How do people navigate and remember it? 
-* Workshop on genre analysis, comparative media study, and paper + cardboard prototyping (see Anastasia Salter on interactive stories and Elizabeth W. Bruss on literary history of games ) 
-
-## Week 6: Make Your Text a Tabletop Genre 
-
-* Select a tabletop genre (e.g., breakout, character development, network building, shedding) that corresponds meaningfully with your -ism and primary text 
-* Prototype a tabletop game with pen and paper (prototype fast and don't worry about particulars)
-* Share and playtest your prototype in seminar 
-* How does it invite interaction? How does it combine aesthetics with politics? 
-* Workshop on labour studies of procedure, programming, and play (see Lisa Nakamura on digtial labour, Ian Bogost on procedural rhetoric, and Patrick Jagoda on affect + mechanics) 
-
-## Week 7: Make Your Text a Set of Rules 
-
-* Articulate your text as a set of rules; write them down and test them with your prototype (from last week)
-* Share and playtest your rules in seminar 
-* How do they invite storytelling? How do they frame labour and procedure? 
-* Workshop on board design (manual and software) and CNC techniques (papercutting and lasercutting) (see Matthew Kirschenbaum on contests of meaning and Caitlin Fisher on design + augmented reality) 
-
-## Week 8: Make Your Text a Board 
-* Design a board for your tabletop game; test it with your prototype (from the last two weeks)
-* Share and playtest your board in seminar 
-* How does it invite strategy? How does it express space and time? 
-* Workshop on 3D modelling, digitization, and printing (see Tiffany Chan and Mara Mills on prototyping the past and Nicole Clouston on fabrication in the arts) 
-
-## Week 9: Make Your Text a Set of Tokens/Avatars  
-
-* Design the tokens or avatars for your tabletop game; test them with your prototype (from the last three weeks)
-* Share and playtest your pieces in seminar
-* How do they invite embodied experience? How do they correspond with iconographies and cultural assumptions? 
-* Workshop on agency in design (see Elizabeth LaPensée on self-determination) 
-
-## Week 10: Make Your Text a Set of Cards 
-
-* Design the cards and dice (if applicable) for your tabletop game; test them with your prototype (from the last four weeks)
-* Share and playtest your cards (and dice) in seminar 
-* How do they invite chance or serendipity? How do they affect agency? 
-* Workshop on not working (or taking care of yourself)(see Sara Ahmed on self-care) 
-
-## Week 11: Take a Break 
-
-* Step away from it all for a bit 
-
-## Week 12: Make Your Text a Manual
-
-* Draft a manual for your game; make sure it's available in print and digital form 
-* Start polishing your game in tactile form
-* Share and playtest your manual and prototype in seminar 
-* How do they present themselves as products? As exchanges or relations? As pedagogical artifacts? 
-* Workshop on presenting and circulating games (online and off) (return to Anthropy) 
-
-## Week 13 or 14: Package and Present Your Text as a Tabletop Game 
-
-* Organize an event (as a group) and present your games to a group on or off campus (e.g., in the library or at a local board game cafe)
-* Invite people to play it and document (with written permission) their experiences 
-
-## Week 15: Submit Your Game 
-
-* Submit your game in physical and digital form (as a thing and repository of files)
-* With it, provide a statement detailing your tabletop game as scholarly work 
-
-*The University of Victoria's Department of English acknowledges and respects the Songhees, Esquimalt, and WSÁNEĆ peoples on whose traditional territories the University stands and whose historical relationships with the land continue to this day.*
+* Access to a computer 
+* Access to materials for prototyping (such as graph paper, cardboard, markers, pens, pencils, plasticine, scissors, rulers, cameras, tape, glue, and design and editing software)
+* Recommended: [*Tabletop Simulator*](http://store.steampowered.com/app/286160/Tabletop_Simulator/) and [*Challenges for Game Designers*](https://www.worldcat.org/title/challenges-for-game-designers/oclc/939054849&referer=brief_results), by Romero and Schreiber
+* Encouraged: $10-20 to play games at a local board game cafe 
