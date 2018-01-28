@@ -4,7 +4,11 @@
 
 Jentery Sayers | English | University of Victoria | Digital Studies Seminar (Fall 2018)
 
+## EPIGRAPHS
+
 *Get off the internet!* -- Le Tigre (2001)
+
+*Games are expanding so much in terms of subject matter, in terms of what they're about and who they are able to be about, but let's also expand how they play, what they value, what they expect from the player, what they give back.* -- Anna Anthropy, "Passing Notes"
 
 ## ACKNOWLEDGMENTS 
 
@@ -21,10 +25,10 @@ The University of Victoria's Department of English acknowledges with respect the
 
 ## ASSIGNMENTS 
 
-* Design Document (20% x 2): documentation of the iterative design and development of your game, including game components and drafts as well as responses to related readings, games, and playtests  
-* Game Prototype (25%): an offline tabletop game complete with a manual, concept doc (with feature list), and "bits" (such as a board, tiles, and cards) enacting the game's theme, mechanics, and system 
-* Final Presentation and Paper (20%): a five- to seven-minute talk (delivered at the end of term)revised into a final paper (submitted one or two weeks after the talk)
-* Participation (15%): such as preparing for seminar, contributing to discussions, and participating in workshops and playtests 
+* **Design Document** (20% x 2): documentation of the iterative design and development of your game, including game components and drafts as well as responses to related readings, games, and playtests  
+* **Prototype** (25%): an offline tabletop game complete with a manual, concept doc (with feature list), and "bits" (such as a board, tiles, and cards) enacting the game's theme, mechanics, and system 
+* **Talk + Paper** (20%): a five- to seven-minute talk (delivered at the end of term)revised into a final paper (submitted one or two weeks after the talk)
+* **Participation** (15%): such as preparing for seminar, contributing to discussions, and participating in workshops and playtests 
 
 Please note that I encourage you to avoid prototyping the following types of games (during seminar I'll explain why): trivia, quiz/word, old school revival, tactical war, and mods  
 
