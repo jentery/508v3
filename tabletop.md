@@ -19,13 +19,13 @@ Jentery Sayers | English | University of Victoria | Digital Studies Seminar (Fal
 
 *Get off the internet!* -- Le Tigre (2001)
 
-*Games are expanding so much in terms of subject matter, in terms of what they're about and who they are able to be about, but let's also expand how they play, what they value, what they expect from the player, what they give back.* -- Anna Anthropy, "Passing Notes"
+*Games are expanding so much in terms of subject matter, in terms of what they're about and who they are able to be about, but let's also expand how they play, what they value, what they expect from the player, what they give back.* -- Anna Anthropy, "Passing Notes" (2015) 
 
 ## ACKNOWLEDGMENTS 
 
 The University of Victoria's Department of English acknowledges with respect the Lkwungen-speaking peoples on whose traditional territory the university stands and the Songhees, Esquimalt and WSÁNEĆ peoples whose historical relationships with the land continue to this day.
 
-Thanks to Kevin Brock, Ed Chang, Mary Flanagan, Justin Foran, Garnet Hertz, Patrick Jagoda, Carly Kocurek, Kari Kraus, Tara McPherson, Lisa Nakamura, Anastasia Salter, and Gillian Smith for pointing me to teaching and research materials that inform this seminar.   
+Thanks to Herbert Blau, Kevin Brock, Ed Chang, Mary Flanagan, Justin Foran, Garnet Hertz, Patrick Jagoda, Carly Kocurek, Kari Kraus, Tara McPherson, Lisa Nakamura, Anastasia Salter, and Gillian Smith for pointing me to teaching and research materials that inform this seminar.   
 
 ## AIMS 
 
@@ -287,6 +287,7 @@ Indie videogames you might want to remediate during Week 4:
 * Stardew Valley 
 * Topsoil 
 * Undertale 
+* Universal Paperclips
 * West of Loathing 
 
 ## KEYWORDS
