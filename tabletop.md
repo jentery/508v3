@@ -51,6 +51,8 @@ Please note that I encourage you to avoid prototyping the following types of gam
 * Recommended: [*Tabletop Simulator*](http://store.steampowered.com/app/286160/Tabletop_Simulator/), by Berserk Games; and [*Challenges for Game Designers*](https://www.worldcat.org/title/challenges-for-game-designers/oclc/939054849&referer=brief_results), by Romero and Schreiber
 * Encouraged: $10-20 to play games at a local board game cafe, and another $10-30 for games available via [Steam](http://store.steampowered.com/) 
 
+Please note that we *may* be able to use facilities on campus to fabricate components for your prototypes. These facilities contain 3D printers, routers, and laser-cutters, but some of the equipment may only be used with permission, or is subject to restricted use. Details coming soon.  
+
 ## SCHEDULE 
 
 Here's the weekly schedule. Please note that I always over-plan. I will inevitably cut material, including workshops, readings, and/or exercises. Please also note we will be joined by several guest speakers, who do not (yet) appear on this schedule.  
@@ -176,7 +178,7 @@ During seminar we will:
 * Workshop your dynamics (~1.5 hours). Please log and save this work in your design doc.
 * Review software and other technologies to prep for next week (~30 minutes). Experiment with *Tabletop Simulator*.  
 
-## Week 10: REFINE AND DIGITIZE THE PARTS. 
+## Week 10: REFINE, DIGITIZE, AND FABRICATE THE PARTS. 
 
 Prior to seminar, please: 
 * Read Nicole Clouston and Jentery Sayers, "Fabrication and Research-Creation in the Arts and Humanities."
