@@ -97,7 +97,7 @@ During seminar, we will:
 * Paper-prototype your -isms as grid-based tabletop games (~1 hour). Please log and save this work in your design doc. 
 * Outline issues involved in prototyping your -isms (as games) via an A-D-M framework (~1 hour). Please log and save this work in your design doc.  
 
-## Week 4: REMEDIATE A VIDEOGAME. 
+## Week 4: REMEDIATE A VIDEOGAME FOR TABLETOPS. 
 
 Prior to seminar, please: 
 * Read Lisa Samuels and Jerome McGann, "Deformance and Interpretation."
