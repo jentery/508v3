@@ -256,6 +256,7 @@ Tabletop games you might want to play, especially during Week 3 (soon I'll categ
 * Exit: The Game 
 * Gloomhaven 
 * I'm the Boss! 
+* Jaipur
 * Kingdomino 
 * Machi Koro
 * Mintworks 
