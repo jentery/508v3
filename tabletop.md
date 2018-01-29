@@ -6,13 +6,13 @@ Jentery Sayers | English | University of Victoria | Digital Studies Seminar (Fal
 
 ## CONTENT 
 
-* Epigraphs 
-* Acknowledgments 
-* Aims 
-* Assignments 
-* Schedule 
-* Keywords  
-* Games 
+* [Epigraphs](https://github.com/jentery/508v3/blob/master/tabletop.md#epigraphs) 
+* [Acknowledgments](https://github.com/jentery/508v3/blob/master/tabletop.md#acknowledgments) 
+* [Aims](https://github.com/jentery/508v3/blob/master/tabletop.md#aims) 
+* [Assignments](https://github.com/jentery/508v3/blob/master/tabletop.md#assignments)
+* [Schedule](https://github.com/jentery/508v3/blob/master/tabletop.md#schedule)
+* [Games](https://github.com/jentery/508v3/blob/master/tabletop.md#games)
+* [Keywords](https://github.com/jentery/508v3/blob/master/tabletop.md#keywords)  
 
 ## EPIGRAPHS
 
@@ -24,7 +24,7 @@ Jentery Sayers | English | University of Victoria | Digital Studies Seminar (Fal
 
 The University of Victoria's Department of English acknowledges with respect the Lkwungen-speaking peoples on whose traditional territory the university stands and the Songhees, Esquimalt and WSÁNEĆ peoples whose historical relationships with the land continue to this day.
 
-Thanks to Ed Chang, Mary Flanagan, Justin Foran, Garnet Hertz, Patrick Jagoda, Carly Kocurek, Kari Kraus, Anastasia Salter, and Gillian Smith for pointing me to teaching and research materials that inform this seminar.   
+Thanks to Ed Chang, Mary Flanagan, Justin Foran, Garnet Hertz, Patrick Jagoda, Carly Kocurek, Kari Kraus, Lisa Nakamura, Anastasia Salter, and Gillian Smith for pointing me to teaching and research materials that inform this seminar.   
 
 ## AIMS 
 
@@ -42,7 +42,7 @@ Thanks to Ed Chang, Mary Flanagan, Justin Foran, Garnet Hertz, Patrick Jagoda, C
 * **Talk + Paper** (20%): a five- to seven-minute talk (delivered at the end of term)revised into a final paper (submitted one or two weeks after the talk)
 * **Participation** (15%): such as preparing for seminar, contributing to discussions, and participating in workshops and playtests 
 
-Please note that I encourage you to avoid prototyping the following types of games (during seminar I'll explain why): trivia, quiz/word, old school revival, tactical war, and mods. 
+Please note that I encourage you to avoid prototyping the following types of games (during seminar I'll explain why): trivia, quiz/word, old school revival, roll-and-move, tactical war, and mods. 
 
 ## MATERIALS 
 
@@ -58,9 +58,10 @@ Prior to seminar, please:
 * Review the website for the course. 
 
 During seminar, we will: 
-* Introduce ourselves, share motivations for the course, and talk about the assignments, with an emphasis on the design document (1 hour).  
-* Review keywords and debates related to game prototyping (including the A-D-M and M-D-A frameworks) and then discuss Kraus, "subjunctive knowledge," and "speculative design" (1 hour).
-* Paper-prototype a "game state" for a game about . . . ack! . . . grad school (1 hour). Please log and save this work in your design doc.  
+* Introduce ourselves, share motivations for the course, and talk about the assignments, with an emphasis on the design document (~1 hour).  
+* Review keywords and debates related to game prototyping (including the A-D-M and M-D-A frameworks) and then discuss Kraus, "subjunctive knowledge,"  "speculative design," and "design as inquiry" (see Daniela Rosner) (~1 hour).
+* Paper-prototype a "game state" for a game about . . . ack! . . . grad school (~1 hour). Please log and save this work in your design doc. 
+* Submit exit cards.  
 
 ## Week 2: SELECT AN -ISM AND PRIMARY TEXT. 
 
@@ -68,35 +69,304 @@ Prior to seminar, please:
 * Read Mary Ann Caws, "The Poetics of the Manifesto: Nowness and Newness."
 * Survey some -isms between 1870 and 1970 (e.g., symbolism, absurdism, feminism, futurism) and select one to study this term.
 * Pick a primary text (fiction or poetry) that represents the -ism (you will use this text to inform your game prototyping this term).
-* Describe (~250 words) your -ism and primary text in your design doc, including bibliographic metadata and considerations of your -ism's history, politics, and aesthetics. 
+* Describe (~250 words, plus figures) your -ism and primary text in your design doc, including bibliographic metadata and considerations of your -ism's history, politics, and aesthetics. 
 
 During seminar, we will: 
-* Share your selected -isms and primary texts (1 hour). 
-* Discuss your -isms as forms of "action writing" (see Steven Marcus), from aesthetics to mechanics (1 hour). 
-* Scenario-prototype possible  "contexts of use" (see Andrea Botero) for your -isms in the present moment (1 hour). Please log and save this work in your design doc. 
+* Share your selected -isms and primary texts (~1 hour). 
+* Discuss your -isms as forms of "action writing" (see Steven Marcus), from aesthetics to mechanics (~1 hour). 
+* Scenario-prototype possible  "contexts of use" (see Andrea Botero) for your -isms in the present moment (~1 hour). Please log and save this work in your design doc. 
 
-## Week 3: Play Some Games. 
+## Week 3: PLAY SOME GAMES. 
 
 Prior to seminar, please: 
 * Read Bethany Nowviskie, ["Ludic Algorithms"](https://quod.lib.umich.edu/d/dh/12544152.0001.001/--pastplay-teaching-and-learning-history-with-technology?g=dculture;trgt=div2_ch7;view=fulltext;xc=1).
 * Play at least two different types of tabletop games with someone else in seminar. (You're welcome to include other people, too.)
-* Describe (~300 words total) in your design doc the genres, game states, game views, game spaces, and game dynamics of two tabletop games you played. No need to review or analyze the games. Just describe them. 
+* Describe (~300 words total, plus photographs) in your design doc the genres, game states, game views, game spaces, game dynamics, goals, and themes of two tabletop games you played. No need to review or analyze the games. Just describe them. 
 
 During seminar, we will: 
 
-* Share your experiences playing tabletop games (30 minutes). 
-* Discuss Nowviskie, "ludic algorithms," and procedural experimentation (30 minutes). 
-* Paper-prototype your -isms as grid-based tabletop games (1 hour). Please log and save this work in your design doc. 
-* Outline issues involved in prototyping your -isms as games via an A-D-M framework (1 hour). Please log and save this work in your design doc.  
+* Share your experiences playing tabletop games (~30 minutes). 
+* Discuss Nowviskie, "ludic algorithms," and procedural experimentation (~30 minutes). 
+* Paper-prototype your -isms as grid-based tabletop games (~1 hour). Please log and save this work in your design doc. 
+* Outline issues involved in prototyping your -isms as games via an A-D-M framework (~1 hour). Please log and save this work in your design doc.  
 
-## Week 4: Remediate a Videogame. 
+## Week 4: REMEDIATE A VIDEOGAME. 
 
 Prior to seminar, please: 
 * Read Lisa Samuels and Jerome McGann, "Deformance and Interpretation."
 * Select and play an indie videogame that you will remediate into a tabletop game. 
-* Describe (~250 words) in your design doc the setup mechanics, completion conditions, progression type, verbs (or actions), view(s), and player expectations of the videogame you played. Include screengrabs, GIFs, or video where possible. 
+* Describe (~250 words, plus screengrabs, GIFS, or video) in your design doc the setup mechanics, completion or victory conditions, progression type, verbs (or actions), view(s), interface(s), and player expectations of the videogame you played.  
 
 During seminar, we will: 
 
-* Discuss Samuels and McGann, "deformance," and "remediation" (see Jay David Bolter and Richard Grusin) (30 minutes).
-* Paper-prototype tabletop versions of your videogames. You will choose between thematic- and mechanic-based remediations (2.5 hours). 
+* Discuss Samuels and McGann, "deformance," and "remediation" (see Jay David Bolter and Richard Grusin) (~30 minutes).
+* Review and outline game genres (~30 minutes).  
+* Paper-prototype tabletop versions of your videogames. You will choose between thematic- and mechanic-based remediations (~2 hours). Please log and save this work in your design doc.  
+* Rapid-prototype your concept doc to prep for next week (~5 minutes).
+
+## Week 5: MAKE YOUR TEXT A CONCEPT DOC. 
+
+Prior to seminar, please:
+* Read Elizabeth W. Bruss, "The Games of Literature and Some Literary Games."
+* Draft a concept doc (~400 words, plus figures) for your prototype. It should explain your game, identify its genre, speak to the intended audience, provide a working feature list, and be informed by your -ism and primary text. 
+
+During seminar, we will: 
+* Discuss Bruss, "games of literature," and "literary games" (~30 minutes).
+* Workshop your concept docs (~1.5 hours). 
+* Paper-prototype collection mechanics for your -isms and prototypes (~1 hour). Please log and save this work in your design doc.
+* Rapid-prototype your world to prep for next week (~5 minutes).   
+
+## Week 6: MAKE YOUR TEXT A WORLD.
+
+Prior to seminar, please: 
+* Read Samuel R. Delany, "The Necessity of Tomorrows."
+* Paper-prototype the setting and theme of your game. Experiment with boards and tiles, for instance.  
+* Describe (~250 words, plus photographs or the like) in your design doc the setting, theme, story, and context of your game. Speak to the associations and activities it evokes. Where possible and relevant, note how your concept doc changed during the prototyping process.  
+
+During seminar, we will: 
+* Discuss Delany, "images of tomorrow," and the relationships (both political and aesthetic) between games and science fiction (~30 minutes). 
+* Workshop your worlds (~1.5 hours). Please log and save this work in your design doc. 
+* Review and outline the shift from A-D-M (-ism to mechanic) to M-D-A (mechanic to game experience) (~1 hour).  
+* Rapid-prototype your system to prep for next week (~5 minutes).
+
+Your design document is due this week, too.  
+
+## Week 7: MAKE YOUR TEXT A SYSTEM. 
+
+Prior to seminar, please: 
+
+* Read Matthew Kirschenbaum, ["Contests for Meaning: Playing King Philip’s War in the Twenty-First Century"](https://quod.lib.umich.edu/d/dh/12544152.0001.001/1:6/--pastplay-teaching-and-learning-history-with-technology?g=dculture;rgn=div1;view=fulltext;xc=1#6.2).
+* Prototype the goals, rules, and mechanics of your game, or how actions will unfold in your world. Experiment with different rules. See which ones are easiest to memorize and rehearse.  
+* Describe (~250 words, plus photographs, video, or the like) your game's system. Speak to the negotiations and/or narratives it affords. In addition to this description, provide a working draft of your rules. Where possible and relevant, note how your concept doc changed during the prototyping process.      
+
+During seminar, we will: 
+
+* Workshop your systems (~1.5 hours). Please log and save this work in your design doc. 
+* Discuss Kirschenbaum, "contest," and "meaning" (~30 minutes).
+* Return to your -isms + primary texts and review the state your prototypes (~1 hour.)
+* Rapid-prototype some game bits to prep for next week (~5 minutes).
+
+## Week 8: MAKE YOUR TEXT SOME BITS.
+
+Prior to seminar, please: 
+* Read Elizabeth LaPensée, "Self-Determination in Indigenous Games."
+* Prototype the "game bits" for your game: tokens, avatars, meeples, tiles, cards, and dice, for instance. Use existing materials where helpful.
+* Describe (~250 words, plus photographs and the like) the bits of your game. Speak to how they create correspondences with, e.g., people, history, art, environments, and rituals. Where possible and relevant, note how your concept doc changed during the prototyping process. 
+
+During seminar, we will: 
+* Workshop the game bits with their world and system (~1.5 hours). Please log and save this work in your design doc.
+* Discuss LaPensée and issues of agency, power, and self-determination (~30 minutes).
+* Begin planning the end-of-term event (~1 hour). 
+* Rapid-prototype some dynamics and interfaces to prep for next week (~5 minutes). 
+
+## Week 9: MAKE YOUR TEXT A DYNAMIC. 
+
+Prior to seminar, please: 
+* Read Mary Flanagan, "Critical Play and Responsible Design."
+* Scenario-prototype and playtest dynamics and interfaces for your game. Experiment with balances and settings, such as difficulty and the number of players, and also document people's embodied interactions and responses to playing your prototype. Determine what sort of graphics or other interface components your game needs. 
+* Describe (~250 words, plus photographs and the like) the dynamics and interface(s) of your game. Speak to the social, affective and material relations it affords. Where possible and relevant, note how your concept doc changed during the prototyping process.  
+
+During seminar we will: 
+
+* Discuss Flanagan, "critical play," and "responsible design" (30 minutes).
+* Workshop your dynamics (~1.5 hours). Please log and save this work in your design doc.
+* Review software and other technologies to prep for next week (~30 minutes). Experiment with *Tabletop Simulator*.  
+
+## Week 10: REFINE AND DIGITIZE THE PARTS. 
+
+Prior to seminar, please: 
+* Read Nicole Clouston and Jentery Sayers, "Fabrication and Research-Creation in the Arts and Humanities."
+* Review materials to prepare for workshops in the Digital Scholarship Commons.
+* Refine your prototype where necessary and log the changes in your design doc.  
+* Determine which components of your prototype you want to (re)produce manually and automatically.  
+
+During seminar, we will: 
+* Conduct workshops on 3D digitization, modelling, and fabrication, including printing, papercutting, lasercutting, and routing (~2.5 hours). Please log and save this work in your design doc. 
+* Discuss the importance of self-care (see Sara Ahmed). 
+
+## Week 11: TAKE A BREAK. 
+
+Step away from it all. 
+
+## Week 12: MAKE YOUR TEXT A MANUAL.
+
+Prior to seminar, please: 
+
+* Draft and print five copies of a manual for your game. It should include a description of your game and the setup, conditions, and components ("bits"). It should also include and describe all of the rules. Consider including images, such as diagrams, alongside the text. Finally, make sure the manual is available in PDF and tactile form.
+* Refine your prototype where necessary and log the changes in your design doc.
+
+During seminar, we will: 
+
+* Finalize the details for the end-of-term event, including the location, approach/style, content, and communications (~30 minutes). 
+* Workshop your manual along with your prototype's world, system, bits, and dynamics (~1.5 hours). Please log and save this work in your design doc.
+* Review the relevance of prototyping your -ism and primary text to literary, cultural, and digital studies (~1 hour).   
+
+## Week 13: REFINE, PACKAGE, AND ARCHIVE THE PARTS. 
+
+Prior to seminar, please: 
+
+* Polish your prototype in tactile and digital form.
+* Gather all the parts in digital form and place them in a single folder, which will become a repository.  
+
+During seminar, we will: 
+
+* Workshop your prototype one more time, with an emphasis on lingering issues and concerns (30 minutes). 
+* Structure digital versions of your prototype as a repository of files and then review ways to circulate them online (via GitHub and Itch, e.g.) (~1 hour). 
+* Rapid-prototype packages or containers for your game and its parts (~1 hour). 
+* Complete course experience surveys (~30 minutes).
+
+Your design document is due this week, too.  
+
+## Weeks 14 and 15: SHARE AND SUBMIT YOUR PROTOTYPE. 
+
+During the end-of-term event, you will: 
+* Present your prototype and its relation to your -ism and primary text (5-7 minutes). 
+* Invite people to play your prototype. 
+* Document (with written permission) how people play and respond to your prototype.  
+
+After the event, you will:  
+* Submit your prototype in physical and digital form (as a thing and repository of files).
+* Submit your talk in polished form, as a paper (1500-2000 words, plus figures).  
+
+## GAMES 
+
+Tabletop games you might want to play, especially during Week 3 (soon I'll categorize these according to genre): 
+
+* Agricola 
+* Antiquity 
+* Arkham Horror 
+* Azul 
+* Battlestar Galactica
+* Betrayal at House on the Hill
+* Carcassonne
+* Cards against Humanity 
+* Civilization 
+* Codenames 
+* Concordia 
+* Dominion 
+* Eldritch Horror 
+* Euphoria 
+* Exit: The Game 
+* Gloomhaven 
+* I'm the Boss! 
+* Kingdomino 
+* Machi Koro
+* Mintworks 
+* Munchkin Shakespeare 
+* Orléans 
+* Pandemic 
+* Patchwork 
+* Power Grid 
+* Puerto Rico
+* Queendomino 
+* Sagrada 
+* Scythe
+* 7 Wonders 
+* Takenoko
+* Terraforming Mars 
+* Ticket to Ride 
+
+Indie videogames you might want to remediate during Week 4: 
+
+* Fidel Dungeon Rescue
+* A Good Snowman Is Hard to Build 
+* Gorogoa  
+* LIM 
+* Limbo 
+* Overcooked 
+* Papers, Please 
+* Stardew Valley 
+* Undertale 
+* Topsoil 
+* West of Loathing 
+
+## KEYWORDS
+
+* A-D-M (see Weeks 1 and 3)
+* Action Writing (see Week 2)
+* Affect (see Week 9)
+* Algorithm (see Week 3)
+* Alignment (game genre)
+* Abstracts (game genre)
+* Accumulation (Collection) (game genre)
+* Ameritrash (game genre)
+* Area Control/Influence/Enclosure (game genre)
+* Avatar (see Week 8)
+* Balance (see Weeks 7 and 9)
+* Board (game bit)
+* Breakout (game genre)
+* Building (game genre)
+* Capture (game genre)
+* Cards (game bit)
+* Character Development (game genre)
+* Chasing (game genre)
+* Collaborative (see Week 5)
+* Collusion (game genre)
+* Competitive (see Week 5)
+* Concept Document (see Week 5)
+* Content Design (seek Weeks 7 and 9)
+* Context of Use (see Week 2)
+* Cooperative (game genre)
+* Critical Play (see Week 9)
+* Deck-building (game genre) 
+* Deduction (game genre)
+* Deformance (seek Week 1)
+* Design Document (see every week)
+* Design as Inquiry (see Week 1)
+* Destruction (game genre) 
+* Dexterity (game genre)
+* Efficiency (game genre)
+* Elimination (game genre)
+* Eurogame (game genre)
+* Evading (game genre)
+* Eversion (see Week 1)
+* Feature List (see Week 5)
+* Game Space (see Week 3)
+* Game State (see Weeks 1 and 3)
+* Game View (see Week 3)
+* Induction (game genre)
+* Interface (see Week 9)
+* Investment (game genre)
+* Labour vs. Work (see Weeks 1 and 7)
+* Legacy (game genre)
+* Ludology (see Week 3)
+* M-D-A (see Weeks 1 and 5)
+* Mechanics vs. Rules (see Week 3) 
+* Meeple (game bit)
+* Melding (game genre)
+* Metadata (see Week 2)
+* Mixed Motive (see Week 5)
+* Narratology (see Weeks 6 and 7)
+* Negotiation (game genre)
+* Networking Building (game genre)
+* Old School Revival/Renaissance (game genre)
+* Ontological Theatre (see Week 2)
+* Pacing/Race/Speed (game genre) 
+* Party (game genre) 
+* Playtesting (see Weeks 6-13)
+* Prediction (game genre)
+* Procedural Experimentation (see Week 3)
+* Puzzle (game genre)
+* Remediation (see Week 4)
+* Responsible (Values) Design (see Week 9)
+* Risk Management and Valuation (game genre)
+* Role-Playing Game (game genre)
+* Roll-and-Move (game genre)
+* Secret Identity (game genre)
+* Self-determination (see Week 8)
+* Shedding (game genre) 
+* Signaling (game genre)
+* Spatial Logic (game genre)
+* Speculative Design (see Week 1)
+* Steering (game genre)
+* Story (see Weeks 6 and 7)
+* Subjunctive (see Week 1)
+* Survival (game genre)
+* System Design (see Week 7)
+* Territory (game genre)
+* Tiles (game bit)
+* Trading (game genre)
+* Victory Conditions (see Week 7)
+* Wargames (game genre)
+* Worker Placement (game genre)
+* World Design (see Week 6)
