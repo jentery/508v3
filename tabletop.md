@@ -24,12 +24,12 @@ Jentery Sayers | English | University of Victoria | Digital Studies Seminar (Fal
 
 The University of Victoria's Department of English acknowledges with respect the Lkwungen-speaking peoples on whose traditional territory the university stands and the Songhees, Esquimalt and WSÁNEĆ peoples whose historical relationships with the land continue to this day.
 
-Thanks to Ed Chang, Mary Flanagan, Justin Foran, Garnet Hertz, Patrick Jagoda, Carly Kocurek, Kari Kraus, Lisa Nakamura, Anastasia Salter, and Gillian Smith for pointing me to teaching and research materials that inform this seminar.   
+Thanks to Kevin Brock, Ed Chang, Mary Flanagan, Justin Foran, Garnet Hertz, Patrick Jagoda, Carly Kocurek, Kari Kraus, Tara McPherson, Lisa Nakamura, Anastasia Salter, and Gillian Smith for pointing me to teaching and research materials that inform this seminar.   
 
 ## AIMS 
 
 * Examine the entanglements of game studies with literary studies through A-D-M and M-D-A frameworks that foreground the material dynamics ("D") between aesthetics ("A") and mechanics ("M"); 
-* Understand digital studies as a centuries-old design practice and approach it through "low-tech" techniques anchored in gaming; 
+* Understand digital studies as a centuries-old design practice and approach it through "low-tech" techniques anchored in gaming, prototyping, and playtesting; 
 * Learn how speculative design and game prototyping apply (and are arguably foundational) to digital humanities project design and development, with particular attention to paradigms for labour, speculation, access, exchange, and negotiation;
 * Prototype an offline tabletop game informed by the politics and aesthetics of an "-ism" (dated between 1870 and 1970) and document the prototyping process; 
 * Share and test your tabletop game with people in and beyond this seminar; and 
@@ -140,8 +140,8 @@ Your design document is due this week, too.
 Prior to seminar, please: 
 
 * Read Matthew Kirschenbaum, ["Contests for Meaning: Playing King Philip’s War in the Twenty-First Century"](https://quod.lib.umich.edu/d/dh/12544152.0001.001/1:6/--pastplay-teaching-and-learning-history-with-technology?g=dculture;rgn=div1;view=fulltext;xc=1#6.2).
-* Prototype the goals, rules, and mechanics of your game, or how actions will unfold in your world. Experiment with different rules. See which ones are easiest to memorize and rehearse.  
-* Describe (~250 words, plus photographs, video, or the like) your game's system. Speak to the negotiations and/or narratives it affords. In addition to this description, provide a working draft of your rules. Where possible and relevant, note how your concept doc changed during the prototyping process.      
+* Prototype the goals, rules, and mechanics of your game, or how actions will unfold in your world. Experiment with different rules. See which ones are easiest to memorize and rehearse. Consider play to be a form of labour.  
+* Describe (~250 words, plus photographs, video, or the like) your game's system. Speak to the negotiations, exchanges, and/or narratives it affords. In addition to this description, provide a working draft of your rules. Where possible and relevant, note how your concept doc changed during the prototyping process.      
 
 During seminar, we will: 
 
@@ -168,7 +168,7 @@ During seminar, we will:
 Prior to seminar, please: 
 * Read Mary Flanagan, "Critical Play and Responsible Design."
 * Scenario-prototype and playtest dynamics and interfaces for your game. Experiment with balances and settings, such as difficulty and the number of players, and also document people's embodied interactions and responses to playing your prototype. Determine what sort of graphics or other interface components your game needs. 
-* Describe (~250 words, plus photographs and the like) the dynamics and interface(s) of your game. Speak to the social, affective and material relations it affords. Where possible and relevant, note how your concept doc changed during the prototyping process.  
+* Describe (~250 words, plus photographs and the like) the dynamics and interface(s) of your game. Speak to the social, affective, and economic relations it affords. Where possible and relevant, note how your concept doc changed during the prototyping process.  
 
 During seminar we will: 
 
@@ -215,7 +215,7 @@ Prior to seminar, please:
 During seminar, we will: 
 
 * Workshop your prototype one more time, with an emphasis on lingering issues and concerns (30 minutes). 
-* Structure digital versions of your prototype as a repository of files and then review ways to circulate them online (via GitHub and Itch, e.g.) (~1 hour). 
+* Structure digital versions of your prototype as a repository of files and then review techniques for circulating them online (via GitHub and Itch, e.g.). We will also discuss how access relates to these techniques. (~1 hour). 
 * Rapid-prototype packages or containers for your game and its parts (~1 hour). 
 * Complete course experience surveys (~30 minutes).
 
@@ -262,6 +262,7 @@ Tabletop games you might want to play, especially during Week 3 (soon I'll categ
 * Patchwork 
 * Power Grid 
 * Puerto Rico
+* The Royal Game of Ur
 * Queendomino 
 * Sagrada 
 * Scythe
@@ -376,4 +377,3 @@ A list of keywords related to game prototyping. We should return to this list th
 * Wargames (game genre)
 * Worker Placement (game genre)
 * World Design (see Week 6)
-
