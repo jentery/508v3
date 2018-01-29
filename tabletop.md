@@ -150,14 +150,14 @@ During seminar, we will:
 
 * Workshop your rules and systems (~1.5 hours) along with your worlds. Please log and save this work in your design doc. 
 * Discuss Kirschenbaum, "contest," and "meaning" (~30 minutes).
-* Return to your -isms + primary texts and review the state your prototypes (~1 hour.)
+* Return to your -isms + primary texts and review the state of your prototypes (~1 hour.)
 * Rapid-prototype some game components to prep for next week (~5 minutes).
 
 ## Week 8: MAKE YOUR TEXT SOME COMPONENTS.
 
 Prior to seminar, please: 
 * Read Elizabeth LaPensée, "Self-Determination in Indigenous Games."
-* Prototype the components of your game: tokens, avatars, meeples, tiles, cards, and dice, for instance. Use existing materials where helpful.
+* Prototype the components of your game: tokens, avatars, meeples, tiles, cards, and dice, for instance. Use existing materials where helpful. You should bring the components to seminar. 
 * Describe (~250 words, plus photographs and the like) the components of your game. Speak to how they create correspondences with, e.g., people, history, art, environments, and rituals. Where possible and relevant, note how your concept doc changed during the prototyping process. 
 
 During seminar, we will: 
@@ -170,14 +170,14 @@ During seminar, we will:
 
 Prior to seminar, please: 
 * Read Mary Flanagan, "Critical Play and Responsible Design."
-* Scenario-prototype and playtest dynamics and interfaces for your game. Experiment with balances and settings, such as difficulty and the number of players, and also document people's embodied interactions and responses to playing your prototype. Determine what sort of graphics or other interface components your game needs. 
+* Scenario-prototype and playtest dynamics and interfaces for your game. Experiment with balances and settings, such as difficulty and the number of players, and also document people's embodied interactions and responses to playing your prototype. Determine what sort of graphics or other interface components your game needs. You should bring the results (or documentation) to seminar.  
 * Describe (~250 words, plus photographs and the like) the dynamics and interface(s) of your game. Speak to the social, affective, and economic relations it affords. Where possible and relevant, note how your concept doc changed during the prototyping process.  
 
 During seminar we will: 
 
 * Discuss Flanagan, "critical play," and "responsible design" (30 minutes).
 * Workshop your dynamics (~1.5 hours). Please log and save this work in your design doc.
-* Review software and other technologies to prep for next week (~30 minutes). Experiment with *Tabletop Simulator*.  
+* Review software and other technologies to prep for next week (~30 minutes). Time permitting, we will experiment with *Tabletop Simulator*.  
 
 ## Week 10: REFINE, DIGITIZE, AND FABRICATE THE PARTS. 
 
