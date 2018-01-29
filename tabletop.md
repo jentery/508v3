@@ -38,9 +38,9 @@ Thanks to Kevin Brock, Ed Chang, Mary Flanagan, Justin Foran, Garnet Hertz, Patr
 ## ASSIGNMENTS 
 
 * **Design Document** (20% x 2): documentation of the iterative design and development of your game, including game components and drafts as well as responses to related readings, games, and playtests  
-* **Prototype** (25%): an offline tabletop game complete with a manual, concept doc (with feature list), and "bits" (such as a board, tiles, and cards) enacting the game's theme, mechanics, and system 
-* **Talk + Paper** (20%): a five- to seven-minute talk (delivered at the end of term)revised into a final paper (submitted one or two weeks after the talk)
-* **Participation** (15%): such as preparing for seminar, contributing to discussions, and participating in workshops and playtests 
+* **Prototype** (25%): an offline tabletop game complete with a manual and "bits" (such as a board, tiles, and cards) enacting the game's world (including theme), system (including rules), and dynamics (including interface and relations)
+* **Talk + Paper** (20%): a five- to seven-minute talk (delivered at the end of term) revised into a final paper (submitted one or two weeks after the talk)
+* **Participation** (15%): such as preparing for seminar, bringing prototypes to meetings, contributing to discussions, and participating in workshops and playtests 
 
 Please note that I encourage you to avoid prototyping the following types of games (during seminar I'll explain why): trivia, quiz/word, old school revival, roll-and-move, tactical war, and mods. 
 
