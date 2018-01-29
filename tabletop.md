@@ -286,6 +286,8 @@ Indie videogames you might want to remediate during Week 4:
 
 ## KEYWORDS
 
+A list of keywords related to game prototyping. We should return to this list throughout the seminar.  
+
 * A-D-M (see Weeks 1 and 3)
 * Action Writing (see Week 2)
 * Affect (see Week 9)
@@ -374,3 +376,4 @@ Indie videogames you might want to remediate during Week 4:
 * Wargames (game genre)
 * Worker Placement (game genre)
 * World Design (see Week 6)
+
