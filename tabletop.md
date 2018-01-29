@@ -6,13 +6,13 @@ Jentery Sayers | English | University of Victoria | Digital Studies Seminar (Fal
 
 ## CONTENT 
 
-* [Epigraphs](https://github.com/jentery/508v3/blob/master/tabletop.md#epigraphs) 
-* [Acknowledgments](https://github.com/jentery/508v3/blob/master/tabletop.md#acknowledgments) 
-* [Aims](https://github.com/jentery/508v3/blob/master/tabletop.md#aims) 
-* [Assignments](https://github.com/jentery/508v3/blob/master/tabletop.md#assignments)
-* [Schedule](https://github.com/jentery/508v3/blob/master/tabletop.md#schedule)
-* [Games](https://github.com/jentery/508v3/blob/master/tabletop.md#games)
-* [Keywords](https://github.com/jentery/508v3/blob/master/tabletop.md#keywords)  
+* [Epigraphs](#epigraphs) 
+* [Acknowledgments](#acknowledgments)
+* [Aims](#aims) 
+* [Assignments](#assignments)
+* [Schedule](#schedule)
+* [Games](#games)
+* [Keywords](#keywords)  
 
 ## EPIGRAPHS
 
