@@ -49,7 +49,11 @@ Please note that I encourage you to avoid prototyping the following types of gam
 * Access to a computer (all assigned readings will be circulated in PDF via a passcode-protected reader)
 * Access to materials for prototyping (such as graph paper, cardboard, markers, pens, pencils, plasticine, scissors, rulers, cameras, tape, glue, and design and editing software)
 * Recommended: [*Tabletop Simulator*](http://store.steampowered.com/app/286160/Tabletop_Simulator/), by Berserk Games; and [*Challenges for Game Designers*](https://www.worldcat.org/title/challenges-for-game-designers/oclc/939054849&referer=brief_results), by Romero and Schreiber
-* Encouraged: $10-20 to play games at a local board game cafe, and another $10-30 for games available via [Steam](http://store.steampowered.com/)   
+* Encouraged: $10-20 to play games at a local board game cafe, and another $10-30 for games available via [Steam](http://store.steampowered.com/) 
+
+## SCHEDULE 
+
+Here's the weekly schedule. Please note that I always over-plan. I will inevitably cut material, including workshops, readings, and/or exercises. Please also note we will be joined by several guest speakers, who do not (yet) appear on this schedule.  
 
 ## Week 1: DISCUSS FRAMEWORKS.  
 
