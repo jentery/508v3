@@ -251,29 +251,37 @@ Tabletop games you might want to play, especially during Week 3 (soon I'll categ
 * Codenames 
 * Concordia 
 * Dominion 
+* El Dorado
 * Eldritch Horror 
 * Euphoria 
-* Exit: The Game 
+* Exit: The Game
+* Feast for Odin
+* Flamme Rouge
 * Gloomhaven 
+* Hive Mind 
 * I'm the Boss! 
 * Jaipur
 * Kingdomino 
 * Machi Koro
+* Magic Maze 
 * Mintworks 
 * Munchkin Shakespeare 
 * Orléans 
 * Pandemic 
-* Patchwork 
+* Patchwork
+* Photosythesis
 * Power Grid 
 * Puerto Rico
-* The Royal Game of Ur
 * Queendomino 
+* The Royal Game of Ur
 * Sagrada 
 * Scythe
 * 7 Wonders 
 * Takenoko
 * Terraforming Mars 
 * Ticket to Ride 
+* When I Dream 
+* Yokohama
 
 Indie videogames you might want to remediate during Week 4: 
 
@@ -295,18 +303,20 @@ Indie videogames you might want to remediate during Week 4:
 A list of keywords related to game prototyping. We should return to this list throughout the seminar.  
 
 * A-D-M (see Weeks 1 and 3)
+* Abstracts (game genre)
+* Accumulation (Collection) (game genre)
 * Action Writing (see Week 2)
 * Affect (see Week 9)
 * Algorithm (see Week 3)
 * Alignment (game genre)
-* Abstracts (game genre)
-* Accumulation (Collection) (game genre)
 * Ameritrash (game genre)
+* Analysis Paralysis (see Week 9) 
 * Area Control/Influence/Enclosure (game genre)
 * Avatar (see Week 8)
 * Balance (see Weeks 7 and 9)
 * Board (game bit)
 * Breakout (game genre)
+* Broken (see Week 7) 
 * Building (game genre)
 * Capture (game genre)
 * Cards (game bit)
@@ -327,19 +337,24 @@ A list of keywords related to game prototyping. We should return to this list th
 * Design as Inquiry (see Week 1)
 * Destruction (game genre) 
 * Dexterity (game genre)
+* Dry (see Week 7) 
 * Efficiency (game genre)
+* Elegance (see Week 7) 
 * Elimination (game genre)
 * Eurogame (game genre)
 * Evading (game genre)
 * Eversion (see Week 1)
 * Feature List (see Week 5)
+* Fiddly (see Weeks 7 and 9) 
 * Game Space (see Week 3)
 * Game State (see Weeks 1 and 3)
 * Game View (see Week 3)
+* Group Think (see Week 9) 
 * Induction (game genre)
 * Interface (see Week 9)
 * Investment (game genre)
 * Labour vs. Work (see Weeks 1 and 7)
+* Language Independence (see Week 9) 
 * Legacy (game genre)
 * Ludology (see Week 3)
 * M-D-A (see Weeks 1 and 5)
@@ -356,14 +371,17 @@ A list of keywords related to game prototyping. We should return to this list th
 * Pacing/Race/Speed (game genre) 
 * Party (game genre) 
 * Playtesting (see Weeks 6-13)
+* Points Salad (see Week 7) 
 * Prediction (game genre)
 * Procedural Experimentation (see Week 3)
 * Puzzle (game genre)
+* Quarterbacking (see Week 9) 
 * Remediation (see Week 4)
 * Responsible (Values) Design (see Week 9)
 * Risk Management and Valuation (game genre)
 * Role-Playing Game (game genre)
 * Roll-and-Move (game genre)
+* Rules Lawyer (see Weeks 7 and 9) 
 * Secret Identity (game genre)
 * Self-determination (see Week 8)
 * Shedding (game genre) 
@@ -378,6 +396,7 @@ A list of keywords related to game prototyping. We should return to this list th
 * Territory (game genre)
 * Tiles (game bit)
 * Trading (game genre)
+* Turtling (see Week 9) 
 * Victory Conditions (see Week 7)
 * Wargames (game genre)
 * Worker Placement (game genre)
