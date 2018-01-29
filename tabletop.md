@@ -127,7 +127,7 @@ During seminar, we will:
 
 Prior to seminar, please: 
 * Read Samuel R. Delany, "The Necessity of Tomorrows."
-* Paper-prototype the setting and theme of your game. Experiment with boards and tiles, for instance. Think about landscapes, themes, territories, atmospheres, physics, and the assumptions and habits associated with them. You should brig this prototype to seminar.      
+* Paper-prototype the setting and theme of your game. Experiment with boards and tiles, for instance. Think about landscapes, themes, territories, atmospheres, physics, and the assumptions and habits associated with them. You should bring this prototype to seminar.      
 * Describe (~250 words, plus photographs or the like) in your design doc the setting, theme, story, and context of your game. Be exact. Speak to the associations and activities the world evokes. Where possible and relevant, note how your concept doc changed during the prototyping process.  
 
 During seminar, we will: 
