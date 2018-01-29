@@ -86,16 +86,16 @@ During seminar, we will:
 ## Week 3: PLAY SOME GAMES. 
 
 Prior to seminar, please: 
-* Read Bethany Nowviskie, ["Ludic Algorithms"](https://quod.lib.umich.edu/d/dh/12544152.0001.001/--pastplay-teaching-and-learning-history-with-technology?g=dculture;trgt=div2_ch7;view=fulltext;xc=1).
-* Play at least two different types of tabletop games with someone else in seminar. (You're welcome to include other people, too.)
-* Describe (~300 words total, plus photographs) in your design doc the genres, game states, game views, game spaces, game dynamics, goals, and themes of two tabletop games you played. No need to review or analyze the games. Just describe them. 
+* Read Bethany Nowviskie, ["Ludic Algorithms."](https://quod.lib.umich.edu/d/dh/12544152.0001.001/--pastplay-teaching-and-learning-history-with-technology?g=dculture;trgt=div2_ch7;view=fulltext;xc=1)
+* Play at least two different genres of tabletop games with someone else in seminar. (You're welcome to include other people, too.)
+* Describe (~300 words total, plus photographs) in your design doc the genres, states, views, spaces, dynamics, goals, and themes of two tabletop games you played. No need to review or analyze the games. Just describe them. 
 
 During seminar, we will: 
 
 * Share your experiences playing tabletop games (~30 minutes). 
 * Discuss Nowviskie, "ludic algorithms," and procedural experimentation (~30 minutes). 
 * Paper-prototype your -isms as grid-based tabletop games (~1 hour). Please log and save this work in your design doc. 
-* Outline issues involved in prototyping your -isms as games via an A-D-M framework (~1 hour). Please log and save this work in your design doc.  
+* Outline issues involved in prototyping your -isms (as games) via an A-D-M framework (~1 hour). Please log and save this work in your design doc.  
 
 ## Week 4: REMEDIATE A VIDEOGAME. 
 
@@ -108,7 +108,7 @@ During seminar, we will:
 
 * Discuss Samuels and McGann, "deformance," and "remediation" (see Jay David Bolter and Richard Grusin) (~30 minutes).
 * Review and outline game genres (~30 minutes).  
-* Paper-prototype tabletop versions of your videogames. You will choose between thematic- and mechanic-based remediations (~2 hours). Please log and save this work in your design doc.  
+* Paper-prototype tabletop versions of your videogames. You will choose between thematic- and mechanic-based remediations (~2 hours), and you will note what changes when this (the videogame) becomes that (the tabletop game). Please log and save this work in your design doc.  
 * Rapid-prototype your concept doc to prep for next week (~5 minutes).
 
 ## Week 5: MAKE YOUR TEXT A CONCEPT DOC. 
