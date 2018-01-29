@@ -76,7 +76,7 @@ Prior to seminar, please:
 * Read Mary Ann Caws, "The Poetics of the Manifesto: Nowness and Newness."
 * Survey some -isms between 1870 and 1970 (e.g., symbolism, absurdism, feminism, futurism) and select one to study this term.
 * Pick a primary text (fiction or poetry) that represents the -ism (you will use this text to inform your game prototyping this term).
-* Describe (~250 words, plus figures) your -ism and primary text in your design doc, including bibliographic metadata and considerations of your -ism's history, politics, and aesthetics. 
+* Describe (~250 words, plus figures) your -ism and primary text in your design doc, including bibliographic metadata and considerations of your -ism's history, politics, and aesthetics. Be as specific and exact as possible yet avoid rehearsing information already found in encyclopedias and other such reference materials.  
 
 During seminar, we will: 
 * Share your selected -isms and primary texts (~1 hour). 
