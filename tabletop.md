@@ -199,7 +199,7 @@ Step away from it all.
 
 Prior to seminar, please: 
 
-* Draft and print five copies of a manual for your game. It should include a description of your game and the setup, conditions, and components. It should also include and describe all of the rules. Consider including images, such as diagrams, alongside the text. Finally, make sure the manual is available in PDF and tactile form.
+* Draft and print five copies of a manual for your game. It should include a description of your game and the setup, conditions, and components. It should also include and describe all of the rules. Consider including images, such as diagrams, alongside the text. Finally, make sure the manual is available in PDF and tactile form. While the manual need not explain its relationship to your -ism and primary text (that is, the relationship can be implicit), you should come to seminar prepared to discuss that relationship. 
 * Refine your prototype where necessary and log the changes in your design doc.
 
 During seminar, we will: 
@@ -217,7 +217,7 @@ Prior to seminar, please:
 
 During seminar, we will: 
 
-* Workshop your prototype one more time, with an emphasis on lingering issues and concerns (30 minutes). 
+* Workshop your prototype one more time, with an emphasis on lingering issues and concerns (~30 minutes). 
 * Structure digital versions of your prototype as a repository of files and then review techniques for circulating them online (via GitHub and Itch, e.g.). We will also discuss how access relates to these techniques. (~1 hour). 
 * Rapid-prototype packages or containers for your game and its parts (~1 hour). 
 * Complete course experience surveys (~30 minutes).
@@ -228,12 +228,12 @@ Your design document is due this week, too.
 
 During the end-of-term event, you will: 
 * Present your prototype and its relation to your -ism and primary text (5-7 minutes). 
-* Invite people to play your prototype. 
+* Invite people to play the prototype of your game, which should be packaged in some way and accompanied by your manual.  
 * Document (with written permission) how people play and respond to your prototype.  
 
 After the event, you will:  
-* Submit your prototype in physical and digital form (as a thing and repository of files).
-* Submit your talk in polished form, as a paper (1500-2000 words, plus figures).  
+* Submit your prototype in tactile and digital form (as a thing and repository of files). The prototype should include your manual and all game components. The tactile version should be packaged.  
+* Submit your talk in polished form, as a paper (1500-2000 words, plus figures, notes, and references).  
 
 ## GAMES 
 
