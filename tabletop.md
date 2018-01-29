@@ -115,7 +115,7 @@ During seminar, we will:
 
 Prior to seminar, please:
 * Read Elizabeth W. Bruss, "The Games of Literature and Some Literary Games."
-* Draft a concept doc (~400 words, plus figures) for your prototype. It should explain your game, identify its genre, speak to the intended audience, provide a working feature list, and be informed by your -ism and primary text. 
+* Draft and print a concept doc (~400 words, plus figures) for your prototype. It should explain your game, identify its genre, speak to the intended audience, provide a working feature list, and be informed by your -ism and primary text. 
 
 During seminar, we will: 
 * Discuss Bruss, "games of literature," and "literary games" (~30 minutes).
@@ -127,11 +127,11 @@ During seminar, we will:
 
 Prior to seminar, please: 
 * Read Samuel R. Delany, "The Necessity of Tomorrows."
-* Paper-prototype the setting and theme of your game. Experiment with boards and tiles, for instance.  
-* Describe (~250 words, plus photographs or the like) in your design doc the setting, theme, story, and context of your game. Speak to the associations and activities it evokes. Where possible and relevant, note how your concept doc changed during the prototyping process.  
+* Paper-prototype the setting and theme of your game. Experiment with boards and tiles, for instance. Think about landscapes, themes, territories, atmospheres, physics, and the assumptions and habits associated with them. You should brig this prototype to seminar.      
+* Describe (~250 words, plus photographs or the like) in your design doc the setting, theme, story, and context of your game. Be exact. Speak to the associations and activities the world evokes. Where possible and relevant, note how your concept doc changed during the prototyping process.  
 
 During seminar, we will: 
-* Discuss Delany, "images of tomorrow," and the relationships (both political and aesthetic) between games and science fiction (~30 minutes). 
+* Discuss Delany, "images of tomorrow," and the relationships (both political and aesthetic) between games, speculation, and science fiction (~30 minutes). 
 * Workshop your worlds (~1.5 hours). Please log and save this work in your design doc. 
 * Review and outline the shift from A-D-M (-ism to mechanic) to M-D-A (mechanic to game experience) (~1 hour).  
 * Rapid-prototype your system to prep for next week (~5 minutes).
