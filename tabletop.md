@@ -10,6 +10,7 @@ Jentery Sayers | English | University of Victoria | Digital Studies Seminar (Fal
 * [Acknowledgments](#acknowledgments)
 * [Aims](#aims) 
 * [Assignments](#assignments)
+* [Materials](#materials)
 * [Schedule](#schedule)
 * [Games](#games)
 * [Keywords](#keywords)  
