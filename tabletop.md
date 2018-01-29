@@ -39,7 +39,7 @@ Thanks to Kevin Brock, Ed Chang, Mary Flanagan, Justin Foran, Garnet Hertz, Patr
 ## ASSIGNMENTS 
 
 * **Design Document** (20% x 2): documentation of the iterative design and development of your game, including game components and drafts as well as responses to related readings, games, and playtests  
-* **Prototype** (25%): an offline tabletop game complete with a manual and "bits" (such as a board, tiles, and cards) enacting the game's world (including theme), system (including rules), and dynamics (including interface and relations)
+* **Prototype** (25%): an offline tabletop game complete with a manual and components (such as a board, tiles, and cards) enacting the game's world (including theme), system (including rules), and dynamics (including interface and relations)
 * **Talk + Paper** (20%): a five- to seven-minute talk (delivered at the end of term) revised into a final paper (submitted one or two weeks after the talk)
 * **Participation** (15%): such as preparing for seminar, bringing prototypes to meetings, contributing to discussions, and participating in workshops and playtests 
 
@@ -142,26 +142,26 @@ Your design document is due this week, too.
 
 Prior to seminar, please: 
 
-* Read Matthew Kirschenbaum, ["Contests for Meaning: Playing King Philip’s War in the Twenty-First Century"](https://quod.lib.umich.edu/d/dh/12544152.0001.001/1:6/--pastplay-teaching-and-learning-history-with-technology?g=dculture;rgn=div1;view=fulltext;xc=1#6.2).
-* Prototype the goals, rules, and mechanics of your game, or how actions will unfold in your world. Experiment with different rules. See which ones are easiest to memorize and rehearse. Consider play to be a form of labour.  
-* Describe (~250 words, plus photographs, video, or the like) your game's system. Speak to the negotiations, exchanges, and/or narratives it affords. In addition to this description, provide a working draft of your rules. Where possible and relevant, note how your concept doc changed during the prototyping process.      
+* Read Matthew Kirschenbaum, ["Contests for Meaning: Playing King Philip’s War in the Twenty-First Century."](https://quod.lib.umich.edu/d/dh/12544152.0001.001/1:6/--pastplay-teaching-and-learning-history-with-technology?g=dculture;rgn=div1;view=fulltext;xc=1#6.2)
+* Prototype the goals, rules, and mechanics of your game, or how actions will unfold in your world. Experiment with different rules. See which ones are easiest to memorize and rehearse. Consider play to be a form of labour and how process becomes work that is exchanged or negotiated. Please bring the rules to seminar. (It may be easiest to print them.)  
+* Describe (~250 words, plus photographs, video, or the like) your game's system. Speak to the negotiations, exchanges, frustrations, and/or narratives it affords. In addition to this description, provide a working draft of your rules. Where possible and relevant, note how your concept doc changed during the prototyping process.      
 
 During seminar, we will: 
 
-* Workshop your systems (~1.5 hours). Please log and save this work in your design doc. 
+* Workshop your rules and systems (~1.5 hours) along with your worlds. Please log and save this work in your design doc. 
 * Discuss Kirschenbaum, "contest," and "meaning" (~30 minutes).
 * Return to your -isms + primary texts and review the state your prototypes (~1 hour.)
-* Rapid-prototype some game bits to prep for next week (~5 minutes).
+* Rapid-prototype some game components to prep for next week (~5 minutes).
 
-## Week 8: MAKE YOUR TEXT SOME BITS.
+## Week 8: MAKE YOUR TEXT SOME COMPONENTS.
 
 Prior to seminar, please: 
 * Read Elizabeth LaPensée, "Self-Determination in Indigenous Games."
-* Prototype the "game bits" for your game: tokens, avatars, meeples, tiles, cards, and dice, for instance. Use existing materials where helpful.
-* Describe (~250 words, plus photographs and the like) the bits of your game. Speak to how they create correspondences with, e.g., people, history, art, environments, and rituals. Where possible and relevant, note how your concept doc changed during the prototyping process. 
+* Prototype the components of your game: tokens, avatars, meeples, tiles, cards, and dice, for instance. Use existing materials where helpful.
+* Describe (~250 words, plus photographs and the like) the components of your game. Speak to how they create correspondences with, e.g., people, history, art, environments, and rituals. Where possible and relevant, note how your concept doc changed during the prototyping process. 
 
 During seminar, we will: 
-* Workshop the game bits with their world and system (~1.5 hours). Please log and save this work in your design doc.
+* Workshop the game components with their world and system (~1.5 hours). Please log and save this work in your design doc.
 * Discuss LaPensée and issues of agency, power, and self-determination (~30 minutes).
 * Begin planning the end-of-term event (~1 hour). 
 * Rapid-prototype some dynamics and interfaces to prep for next week (~5 minutes). 
@@ -199,13 +199,13 @@ Step away from it all.
 
 Prior to seminar, please: 
 
-* Draft and print five copies of a manual for your game. It should include a description of your game and the setup, conditions, and components ("bits"). It should also include and describe all of the rules. Consider including images, such as diagrams, alongside the text. Finally, make sure the manual is available in PDF and tactile form.
+* Draft and print five copies of a manual for your game. It should include a description of your game and the setup, conditions, and components. It should also include and describe all of the rules. Consider including images, such as diagrams, alongside the text. Finally, make sure the manual is available in PDF and tactile form.
 * Refine your prototype where necessary and log the changes in your design doc.
 
 During seminar, we will: 
 
 * Finalize the details for the end-of-term event, including the location, approach/style, content, and communications (~30 minutes). 
-* Workshop your manual along with your prototype's world, system, bits, and dynamics (~1.5 hours). Please log and save this work in your design doc.
+* Workshop your manual along with your prototype's world, system, components, and dynamics (~1.5 hours). Please log and save this work in your design doc.
 * Review the relevance of prototyping your -ism and primary text to literary, cultural, and digital studies (~1 hour).   
 
 ## Week 13: REFINE, PACKAGE, AND ARCHIVE THE PARTS. 
