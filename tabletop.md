@@ -399,6 +399,7 @@ A list of keywords related to game prototyping. We should return to this list th
 * Tiles (game bit)
 * Trading (game genre)
 * Turtling (see Week 9) 
+* Twitch games and mechanics (see Weeks 1 and 2)
 * Victory Conditions (see Week 7)
 * Wargames (game genre)
 * Worker Placement (game genre)
