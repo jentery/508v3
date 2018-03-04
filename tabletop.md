@@ -93,7 +93,7 @@ Prior to seminar, please:
 During seminar, we will: 
 
 * Share your experiences playing tabletop games (~30 minutes). 
-* Discuss Nowviskie, "ludic algorithms," and procedural experimentation/literacy (see Michael Mateas, Noah Wardrip-Fruin, and Annette Vee) (~30 minutes). 
+* Discuss Nowviskie, "ludic algorithms," and procedural experimentation/literacy/authors (see Michael Mateas, Noah Wardrip-Fruin, Anastasia Salter, Janet Murray, and Annette Vee) (~30 minutes). 
 * Paper-prototype your -isms as grid-based tabletop games (~1 hour). Please log and save this work in your design doc. 
 * Outline issues involved in prototyping your -isms (as games) via an A-D-M framework (~1 hour). Please log and save this work in your design doc.  
 
