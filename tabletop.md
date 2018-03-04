@@ -43,7 +43,7 @@ Thanks to Herbert Blau, Kevin Brock, Ed Chang, Mary Flanagan, Justin Foran, Garn
 * **Talk + Paper** (20%): a five- to seven-minute talk (delivered at the end of term) revised into a final paper (submitted one or two weeks after the talk)
 * **Participation** (15%): such as preparing for seminar, bringing prototypes to meetings, contributing to discussions, and participating in workshops and playtests 
 
-Please note that I encourage you to avoid prototyping the following types of games (during seminar I'll explain why): trivia, quiz/word, old school revival, roll-and-move, tactical war, sequels, expansions, and mods. 
+Please note that I encourage you to avoid prototyping the following types of games (during seminar I'll explain why): trivia, quiz/word, old school revival, roll-and-move, tactical war, sequels, expansions, educational, and mods. 
 
 ## MATERIALS 
 
@@ -93,7 +93,7 @@ Prior to seminar, please:
 During seminar, we will: 
 
 * Share your experiences playing tabletop games (~30 minutes). 
-* Discuss Nowviskie, "ludic algorithms," and procedural experimentation (~30 minutes). 
+* Discuss Nowviskie, "ludic algorithms," and procedural experimentation/literacy (see Michael Mateas, Noah Wardrip-Fruin, and Annette Vee) (~30 minutes). 
 * Paper-prototype your -isms as grid-based tabletop games (~1 hour). Please log and save this work in your design doc. 
 * Outline issues involved in prototyping your -isms (as games) via an A-D-M framework (~1 hour). Please log and save this work in your design doc.  
 
@@ -252,6 +252,7 @@ Tabletop games you might want to play, especially during Week 3 (soon I'll categ
 * Concordia 
 * Dominion 
 * El Dorado
+* El Grande 
 * Eldritch Horror 
 * Euphoria 
 * Exit: The Game
