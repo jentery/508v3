@@ -240,6 +240,7 @@ After the event, you will:
 Tabletop games you might want to play, especially during Week 3 (soon I'll categorize these according to genre): 
 
 * Agricola 
+* Alchemists
 * Android: Netrunner
 * Antiquity 
 * Archipelago
@@ -257,6 +258,7 @@ Tabletop games you might want to play, especially during Week 3 (soon I'll categ
 * Consulting Detective (Sherlock Holmes) 
 * Cosmic Encounter 
 * Coup 
+* Cyclades
 * Discount Salmon
 * Dominion 
 * El Dorado
@@ -303,6 +305,7 @@ Tabletop games you might want to play, especially during Week 3 (soon I'll categ
 * 7 Wonders
 * Skull
 * Space Alert 
+* Splendor
 * Spyfall 
 * Suburbia 
 * Survive: Escape from Atlantis 
@@ -393,6 +396,7 @@ A list of keywords related to game prototyping. We should return to this list th
 * Game State (see Weeks 1 and 3)
 * Game View (see Week 3)
 * Group Think (see Week 9) 
+* Hidden Traitor (game genre)
 * Incentivization (game genre) 
 * Induction (game genre)
 * Interface (see Week 9)
