@@ -240,48 +240,81 @@ After the event, you will:
 Tabletop games you might want to play, especially during Week 3 (soon I'll categorize these according to genre): 
 
 * Agricola 
+* Android: Netrunner
 * Antiquity 
+* Archipelago
 * Arkham Horror 
 * Azul 
 * Battlestar Galactica
 * Betrayal at House on the Hill
 * Carcassonne
 * Cards against Humanity 
+* Castles of Burgundy 
+* Catacombs 
 * Civilization 
 * Codenames 
 * Concordia 
+* Consulting Detective (Sherlock Holmes) 
+* Cosmic Encounter 
+* Coup 
+* Discount Salmon
 * Dominion 
 * El Dorado
 * El Grande 
 * Eldritch Horror 
 * Euphoria 
+* Ex Libris 
 * Exit: The Game
 * Feast for Odin
 * Flamme Rouge
+* Fog of Love 
+* Funemployed 
+* Fury of Dracula 
+* Galaxy Trucker 
 * Gloomhaven 
-* Hive Mind 
+* Hive Pocket 
 * I'm the Boss! 
+* Inis 
 * Jaipur
 * Kingdomino 
+* Love Letter 
 * Machi Koro
 * Magic Maze 
+* Memoir '44 
 * Mintworks 
+* Monikers 
 * Munchkin Shakespeare 
+* Mysterium 
+* One Night Ultimate Werefolk Daybreak 
 * Orléans 
 * Pandemic 
+* Pandemic Legacy 
 * Patchwork
+* Penny Press 
 * Photosythesis
 * Power Grid 
 * Puerto Rico
 * Queendomino 
+* Race for the Galaxy
+* The Resistance: Avalon
 * The Royal Game of Ur
 * Sagrada 
 * Scythe
-* 7 Wonders 
+* 7 Wonders
+* Skull
+* Space Alert 
+* Spyfall 
+* Suburbia 
+* Survive: Escape from Atlantis 
 * Takenoko
+* Tales of the Arabian Nights 
+* Terra Mystica 
 * Terraforming Mars 
 * Ticket to Ride 
+* Twilight Imperium 
+* Two Rooms and a Boom 
 * When I Dream 
+* Witness 
 * Yokohama
 
 Indie videogames you might want to remediate during Week 4: 
@@ -314,6 +347,7 @@ A list of keywords related to game prototyping. We should return to this list th
 * Ameritrash (game genre)
 * Analysis Paralysis (see Week 9) 
 * Area Control/Influence/Enclosure (game genre)
+* Asymmetric Power (game genre) 
 * Auction (game genre) 
 * Avatar (see Week 8)
 * Balance (see Weeks 7 and 9)
@@ -336,6 +370,7 @@ A list of keywords related to game prototyping. We should return to this list th
 * Context of Use (see Week 2)
 * Cooperative (game genre)
 * Critical Play (see Week 9)
+* Culling (game genre) 
 * Deck-building (game genre) 
 * Deduction (game genre)
 * Deformance (seek Week 1)
@@ -343,11 +378,12 @@ A list of keywords related to game prototyping. We should return to this list th
 * Design as Inquiry (see Week 1)
 * Destruction (game genre) 
 * Dexterity (game genre)
-* Drafting (see Week 7) 
+* Drafting, or Pool Drafting (see Week 7) 
 * Dry (see Week 7) 
 * Efficiency (game genre)
 * Elegance (see Week 7) 
 * Elimination (game genre)
+* Engine Building (game genre) 
 * Eurogame (game genre)
 * Evading (game genre)
 * Eversion (see Week 1)
@@ -357,6 +393,7 @@ A list of keywords related to game prototyping. We should return to this list th
 * Game State (see Weeks 1 and 3)
 * Game View (see Week 3)
 * Group Think (see Week 9) 
+* Incentivization (game genre) 
 * Induction (game genre)
 * Interface (see Week 9)
 * Investment (game genre)
@@ -370,6 +407,7 @@ A list of keywords related to game prototyping. We should return to this list th
 * Melding (game genre)
 * Metadata (see Week 2)
 * Mixed Motive (see Week 5)
+* Multi-use Cards (game genre) 
 * Narratology (see Weeks 6 and 7)
 * Negotiation (game genre)
 * Network/Route Building (game genre)
@@ -385,6 +423,8 @@ A list of keywords related to game prototyping. We should return to this list th
 * Programmed Movement (game genre) 
 * Puzzle (game genre)
 * Quarterbacking (see Week 9) 
+* Random Input Management (game genre) 
+* Real-time (game genre) 
 * Remediation (see Week 4)
 * Responsible (Values) Design (see Week 9)
 * Risk Management and Valuation (game genre)
@@ -401,13 +441,18 @@ A list of keywords related to game prototyping. We should return to this list th
 * Story and Storytelling (see Weeks 6 and 7)
 * Strategy and Tactics (see Weeks 1 and 2)
 * Subjunctive (see Week 1)
+* Supply and Demand (game genre) 
 * Survival (game genre)
 * System Design (see Week 7)
 * Territory (game genre)
+* Tile laying (game genre) 
 * Tiles (game bit)
+* Time tracks (game genre) 
 * Trading (game genre)
+* Trashing (game genre) 
 * Turtling (see Week 9) 
 * Twitch games and mechanics (see Weeks 1 and 2)
+* Variable Player Order (game genre) 
 * Victory Conditions (see Week 7)
 * Wargames (game genre)
 * Worker Placement (game genre)
