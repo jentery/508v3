@@ -278,6 +278,7 @@ Tabletop games you might want to play, especially during Week 3 (soon I'll categ
 * Fury of Dracula 
 * Galaxy Trucker 
 * Gloomhaven 
+* Go
 * Hive Pocket 
 * I'm the Boss! 
 * Inis 
@@ -286,6 +287,7 @@ Tabletop games you might want to play, especially during Week 3 (soon I'll categ
 * Love Letter 
 * Machi Koro
 * Magic Maze 
+* Mancala
 * Memoir '44 
 * Mintworks 
 * Monikers 
@@ -306,6 +308,7 @@ Tabletop games you might want to play, especially during Week 3 (soon I'll categ
 * The Royal Game of Ur
 * Sagrada 
 * Scythe
+* Senet
 * 7 Wonders
 * Skull
 * Space Alert 
