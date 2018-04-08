@@ -257,8 +257,10 @@ Tabletop games you might want to play, especially during Week 3 (soon I'll categ
 * Concordia 
 * Consulting Detective (Sherlock Holmes) 
 * Cosmic Encounter 
-* Coup 
+* Coup
+* Crokinole
 * Cyclades
+* Descent 
 * Discount Salmon
 * Dominion 
 * El Dorado
@@ -268,6 +270,7 @@ Tabletop games you might want to play, especially during Week 3 (soon I'll categ
 * Ex Libris 
 * Exit: The Game
 * Feast for Odin
+* Fields of Arle 
 * Flamme Rouge
 * Fog of Love 
 * Funemployed 
@@ -314,6 +317,7 @@ Tabletop games you might want to play, especially during Week 3 (soon I'll categ
 * Terra Mystica 
 * Terraforming Mars 
 * Ticket to Ride 
+* Troyes
 * Twilight Imperium 
 * Two Rooms and a Boom 
 * When I Dream 
