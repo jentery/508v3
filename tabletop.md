@@ -25,7 +25,7 @@ Jentery Sayers | English | University of Victoria | Digital Studies Seminar (Fal
 
 The University of Victoria's Department of English acknowledges with respect the Lkwungen-speaking peoples on whose traditional territory the university stands and the Songhees, Esquimalt and WSÁNEĆ peoples whose historical relationships with the land continue to this day.
 
-Thanks to Herbert Blau, Kevin Brock, Ed Chang, Mary Flanagan, Justin Foran, Garnet Hertz, Patrick Jagoda, Carly Kocurek, Kari Kraus, Tara McPherson, Lisa Nakamura, Anastasia Salter, and Gillian Smith for pointing me to teaching and research materials that inform this seminar.   
+Thanks to Herbert Blau, Kevin Brock, Ed Chang, Mary Flanagan, Justin Foran, Garnet Hertz, Patrick Jagoda, Matthew Kirschenbaum, Carly Kocurek, Kari Kraus, Tara McPherson, Lisa Nakamura, Anastasia Salter, and Gillian Smith for pointing me to teaching and research materials that inform this seminar.   
 
 ## AIMS 
 
