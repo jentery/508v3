@@ -8,6 +8,7 @@ Jentery Sayers | English | University of Victoria | Digital Studies Seminar (Fal
 
 * [Epigraphs](#epigraphs) 
 * [Acknowledgments](#acknowledgments)
+* [Introduction](#introduction)
 * [Aims](#aims) 
 * [Assignments](#assignments)
 * [Materials](#materials)
@@ -25,7 +26,13 @@ Jentery Sayers | English | University of Victoria | Digital Studies Seminar (Fal
 
 The University of Victoria's Department of English acknowledges with respect the Lkwungen-speaking peoples on whose traditional territory the university stands and the Songhees, Esquimalt and WSÁNEĆ peoples whose historical relationships with the land continue to this day.
 
-Thanks to Herbert Blau, Kevin Brock, Ed Chang, Mary Flanagan, Justin Foran, Garnet Hertz, Patrick Jagoda, Matthew Kirschenbaum, Carly Kocurek, Kari Kraus, Tara McPherson, Lisa Nakamura, Anastasia Salter, and Gillian Smith for pointing me to teaching and research materials that inform this seminar.   
+Thanks to Herbert Blau, Kevin Brock, Ed Chang, Mary Flanagan, Justin Foran, Garnet Hertz, Patrick Jagoda, Matthew Kirschenbaum, Carly Kocurek, Kari Kraus, Elizabeth LaPensée, Hector Lopez, Tara McPherson, Lisa Nakamura, Anastasia Salter, and Gillian Smith for pointing me to teaching and research materials that inform this seminar.   
+
+## INTRODUCTION 
+
+Tabletop games are "paper computers," says Matthew Kirschenbaum. They are centuries old. They are designed. They enact systems of rules and procedures. And, most important, you don't have to charge or program them. 
+
+This seminar follows that low-tech disposition. We'll survey the interminable history of games and their entanglements with literature. Then you'll select a movement or "-ism" (between 1870 and 1970) and use it to prototype and share your own tabletop game. We'll discuss the material dynamics that bridge aesthetics with mechanics, including how games routinely rehearse legacies of colonialism and capital accumulation. What alternatives exist, and how are they imagined? We’ll study and play some games as we go, and read a smidgen of media theory and fiction, too. From week to week, we'll ground it all in design practices, such as bookmaking, 3D modelling, fabricating, and playtesting. Various guest speakers will join us. By the end, you should develop a palpable sense of how this becomes that with a computer—but without running culture in the background.  
 
 ## AIMS 
 
@@ -60,6 +67,10 @@ Here's the weekly schedule. Please note that I always over-plan. I will inevitab
 
 ## Week 1: DISCUSS FRAMEWORKS.  
 
+*quote* 
+
+Question 
+
 Prior to seminar, please: 
 * Read Kari Kraus, "Finding Faultlines: An Approach to Speculative Design."
 * Review the website for the course. 
@@ -70,20 +81,37 @@ During seminar, we will:
 * Paper-prototype a "game state" for a game about . . . ack! . . . grad school (~1 hour). Please log and save this work in your design doc. 
 * Submit exit cards.  
 
+Guest speakers: 
+
+Keywords: 
+
 ## Week 2: SELECT AN -ISM AND PRIMARY TEXT. 
+
+*quote* 
+
+Question 
 
 Prior to seminar, please: 
 * Read Mary Ann Caws, "The Poetics of the Manifesto: Nowness and Newness."
 * Survey some -isms between 1870 and 1970 (e.g., symbolism, absurdism, feminism, futurism) and select one to study this term.
 * Pick a primary text (fiction or poetry) that represents the -ism (you will use this text to inform your game prototyping this term).
 * Describe (~250 words, plus figures) your -ism and primary text in your design doc, including bibliographic metadata and considerations of your -ism's history, politics, and aesthetics. Be as specific and exact as possible yet avoid rehearsing information already found in encyclopedias and other such reference materials.  
+* Play (optional) [*Skull*](http://www.skull-and-roses.com/) (party, bidding, hand management, 3-6 players), [*Monikers*](http://www.monikersgame.com/) (party, drafting, role-playing, 4-20 players), and/or [*Codenames*](https://czechgames.com/en/codenames/) (party, memory, partnership, 2-8 players)  
 
 During seminar, we will: 
 * Share your selected -isms and primary texts (~1 hour). 
 * Discuss your -isms as forms of "action writing" (see Steven Marcus), from aesthetics to mechanics (~1 hour). 
 * Scenario-prototype possible  "contexts of use" (see Andrea Botero) for your -isms in the present moment (~1 hour). Please log and save this work in your design doc. 
 
+Guest speaker: 
+
+Keywords: 
+
 ## Week 3: PLAY SOME GAMES. 
+
+*quote* 
+
+Question 
 
 Prior to seminar, please: 
 * Read Bethany Nowviskie, ["Ludic Algorithms."](https://quod.lib.umich.edu/d/dh/12544152.0001.001/--pastplay-teaching-and-learning-history-with-technology?g=dculture;trgt=div2_ch7;view=fulltext;xc=1)
@@ -97,7 +125,15 @@ During seminar, we will:
 * Paper-prototype your -isms as grid-based tabletop games (~1 hour). Please log and save this work in your design doc. 
 * Outline issues involved in prototyping your -isms (as games) via an A-D-M framework (~1 hour). Please log and save this work in your design doc.  
 
+Guest speaker: 
+
+Keywords: 
+
 ## Week 4: REMEDIATE A VIDEOGAME FOR TABLETOPS. 
+
+*quote* 
+
+Question 
 
 Prior to seminar, please: 
 * Read Lisa Samuels and Jerome McGann, "Deformance and Interpretation."
@@ -111,7 +147,15 @@ During seminar, we will:
 * Paper-prototype tabletop versions of your videogames. You will choose between thematic- and mechanic-based remediations (~2 hours), and you will note what changes when this (the videogame) becomes that (the tabletop game). Please log and save this work in your design doc.  
 * Rapid-prototype your concept doc to prep for next week (~5 minutes).
 
+Guest speaker: 
+
+Keywords: 
+
 ## Week 5: MAKE YOUR TEXT A CONCEPT DOC. 
+
+*quote* 
+
+Question 
 
 Prior to seminar, please:
 * Read Elizabeth W. Bruss, "The Games of Literature and Some Literary Games."
@@ -121,9 +165,17 @@ During seminar, we will:
 * Discuss Bruss, "games of literature," and "literary games" (~30 minutes).
 * Workshop your concept docs (~1.5 hours). 
 * Paper-prototype collection mechanics for your -isms and prototypes (~1 hour). Please log and save this work in your design doc.
-* Rapid-prototype your world to prep for next week (~5 minutes).   
+* Rapid-prototype your world to prep for next week (~5 minutes).  
+
+Guest speaker: 
+
+Keywords: 
 
 ## Week 6: MAKE YOUR TEXT A WORLD.
+
+*quote* 
+
+Question 
 
 Prior to seminar, please: 
 * Read Samuel R. Delany, "The Necessity of Tomorrows."
@@ -138,7 +190,15 @@ During seminar, we will:
 
 Your design document is due this week, too.  
 
+Guest speaker: 
+
+Keywords: 
+
 ## Week 7: MAKE YOUR TEXT A SYSTEM. 
+
+*quote* 
+
+Question 
 
 Prior to seminar, please: 
 
@@ -153,7 +213,15 @@ During seminar, we will:
 * Return to your -isms + primary texts and review the state of your prototypes (~1 hour.)
 * Rapid-prototype some game components to prep for next week (~5 minutes).
 
+Guest speaker: 
+
+Keywords: 
+
 ## Week 8: MAKE YOUR TEXT SOME COMPONENTS.
+
+*quote* 
+
+Question 
 
 Prior to seminar, please: 
 * Read Elizabeth LaPensée, "Self-Determination in Indigenous Games."
@@ -166,7 +234,15 @@ During seminar, we will:
 * Begin planning the end-of-term event (~1 hour). 
 * Rapid-prototype some dynamics and interfaces to prep for next week (~5 minutes). 
 
+Guest speaker: 
+
+Keywords: 
+
 ## Week 9: MAKE YOUR TEXT A DYNAMIC. 
+
+*quote* 
+
+Question 
 
 Prior to seminar, please: 
 * Read Mary Flanagan, "Critical Play and Responsible Design."
@@ -179,7 +255,15 @@ During seminar we will:
 * Workshop your dynamics (~1.5 hours). Please log and save this work in your design doc.
 * Review software and other technologies to prep for next week (~30 minutes). Time permitting, we will experiment with *Tabletop Simulator*.  
 
+Guest speaker: 
+
+Keywords: 
+
 ## Week 10: REFINE, DIGITIZE, AND FABRICATE THE PARTS. 
+
+*quote* 
+
+Question 
 
 Prior to seminar, please: 
 * Read Nicole Clouston and Jentery Sayers, "Fabrication and Research-Creation in the Arts and Humanities."
@@ -191,11 +275,19 @@ During seminar, we will:
 * Conduct workshops on 3D digitization, modelling, and fabrication, including printing, papercutting, lasercutting, and routing (~2.5 hours). Please log and save this work in your design doc. 
 * Discuss the importance of self-care (see Sara Ahmed). 
 
+Guest speaker: 
+
+Keywords: 
+
 ## Week 11: TAKE A BREAK. 
 
 Step away from it all. 
 
 ## Week 12: MAKE YOUR TEXT A MANUAL.
+
+*quote* 
+
+Question 
 
 Prior to seminar, please: 
 
@@ -208,7 +300,15 @@ During seminar, we will:
 * Workshop your manual along with your prototype's world, system, components, and dynamics (~1.5 hours). Please log and save this work in your design doc.
 * Review the relevance of prototyping your -ism and primary text to literary, cultural, and digital studies (~1 hour).   
 
+Guest speaker: 
+
+Keywords: 
+
 ## Week 13: REFINE, PACKAGE, AND ARCHIVE THE PARTS. 
+
+*quote* 
+
+Question 
 
 Prior to seminar, please: 
 
@@ -224,7 +324,15 @@ During seminar, we will:
 
 Your design document is due this week, too.  
 
+Guest speaker: 
+
+Keywords: 
+
 ## Weeks 14 and 15: SHARE AND SUBMIT YOUR PROTOTYPE. 
+
+*quote* 
+
+Question 
 
 During the end-of-term event, you will: 
 * Present your prototype and its relation to your -ism and primary text (5-7 minutes). 
