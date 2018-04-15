@@ -96,7 +96,7 @@ Prior to seminar, please:
 * Survey some -isms between 1870 and 1970 (e.g., symbolism, absurdism, feminism, futurism) and select one to study this term.
 * Pick a primary text (fiction or poetry) that represents the -ism (you will use this text to inform your game prototyping this term).
 * Describe (~250 words, plus figures) your -ism and primary text in your design doc, including bibliographic metadata and considerations of your -ism's history, politics, and aesthetics. Be as specific and exact as possible yet avoid rehearsing information already found in encyclopedias and other such reference materials.  
-* Play (optional) [*Skull*](http://www.skull-and-roses.com/) (party, bidding, hand management, 3-6 players), [*Monikers*](http://www.monikersgame.com/) (party, drafting, role-playing, 4-20 players), and/or [*Codenames*](https://czechgames.com/en/codenames/) (party, memory, partnership, 2-8 players)  
+* Optional: Play [*Skull*](https://boardgamegeek.com/boardgame/92415/skull) (party, bidding, elimination, 3-6 players), [*Monikers*](https://boardgamegeek.com/boardgame/156546/monikers) (party, drafting, role-playing, 4-20 players), and/or [*Codenames*](https://boardgamegeek.com/boardgame/178900/codenames) (party, memory, partnership, 2-8 players)  
 
 During seminar, we will: 
 * Share your selected -isms and primary texts (~1 hour). 
@@ -138,7 +138,8 @@ Question
 Prior to seminar, please: 
 * Read Lisa Samuels and Jerome McGann, "Deformance and Interpretation."
 * Select and play an indie videogame that you will remediate into a tabletop game. 
-* Describe (~250 words, plus screengrabs, GIFS, or video) in your design doc the setup mechanics, completion or victory conditions, progression type, verbs (or actions), view(s), interface(s), and player expectations of the videogame you played.  
+* Describe (~250 words, plus screengrabs, GIFS, or video) in your design doc the setup mechanics, completion or victory conditions, progression type, verbs (or actions), view(s), interface(s), and player expectations of the videogame you played. 
+* Optional: Play [*Patchwork*](https://boardgamegeek.com/boardgame/163412/patchwork) (abstract, time track, tile placement, 2 players), [*Carcassonne*](https://boardgamegeek.com/boardgame/822/carcassonne) (medieval, area influence, tile placement, 2-5 players), and/or [*Galaxy Trucker*](https://boardgamegeek.com/boardgame/31481/galaxy-trucker) (sci fi, partnership, tile placement, 2-4 players) 
 
 During seminar, we will: 
 
@@ -344,6 +345,13 @@ After the event, you will:
 * Submit your talk in polished form, as a paper (1500-2000 words, plus figures, notes, and references).  
 
 ## GAMES 
+
+* [*Carcassonne*](https://boardgamegeek.com/boardgame/822/carcassonne) (medieval, area influence, tile placement, 2-5 players)
+* [*Codenames*](https://boardgamegeek.com/boardgame/178900/codenames) (party, memory, partnership, 2-8 players) 
+* [*Galaxy Trucker*](https://boardgamegeek.com/boardgame/31481/galaxy-trucker) (sci fi, partnership, tile placement, 2-4 players) 
+* [*Monikers*](https://boardgamegeek.com/boardgame/156546/monikers) (party, drafting, role-playing, 4-20 players)
+* [*Patchwork*](https://boardgamegeek.com/boardgame/163412/patchwork) (abstract, time track, tile placement, 2 players)
+* [*Skull*](https://boardgamegeek.com/boardgame/92415/skull) (party, bidding, elimination, 3-6 players)
 
 Tabletop games you might want to play, especially during Week 3 (soon I'll categorize these according to genre): 
 
